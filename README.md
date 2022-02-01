@@ -86,15 +86,14 @@ Pr  = -39.5 dBmW = -69.5 dBW= 112.2 nW 
 
 R = √( Pt *Gt* Gt* λ2 )/( Pr  *(4*π)2)   = 999.59 m
 
+####  5G Communication Receiver
+![5G Communication Receiver](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/179e03b85adda2c578c4cbc71161d8cdd25367e6/5gr.PNG)
 
-#### 
-![]()
+####  5G YIELD analysis- IP3 & NF
+![5G YIELD analysis- IP3 & NF](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/179e03b85adda2c578c4cbc71161d8cdd25367e6/ip3nf.PNG)
 
-#### 
-![]()
-
-#### 
-![]()
+#### 5G YIELD analysis- Gain
+![5G YIELD analysis- Gain](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/179e03b85adda2c578c4cbc71161d8cdd25367e6/5gg.PNG)
 
 #### 
 ![]()
