@@ -95,29 +95,15 @@ R = √( Pt *Gt* Gt* λ2 )/( Pr  *(4*π)2)   = 999.59 m
 #### 5G YIELD analysis- Gain
 ![5G YIELD analysis- Gain](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/179e03b85adda2c578c4cbc71161d8cdd25367e6/5gg.PNG)
 
-#### 
-![]()
+#### 5G Tx & Rx Channel
+![5G Tx & Rx Channel](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/ba61cda2a1c4edee83ae2d12dcbedb42805aac75/5grtx.PNG)
 
-#### 
-![]()
+#### 5G Tx & Rx Channel Simulation
+![5G Tx & Rx Channel](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/ba61cda2a1c4edee83ae2d12dcbedb42805aac75/5grtx2.PNG)
 
-#### 
-![]()
+#### Radar TX And RX Channel
+![Radar TX And RX Channel](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/ba61cda2a1c4edee83ae2d12dcbedb42805aac75/radar%20rtx.PNG)
 
-#### 
-![]()
+#### Radar TX And RX Channel Simulation
+![Radar TX And RX Channel](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/ba61cda2a1c4edee83ae2d12dcbedb42805aac75/radar%20rtx2.PNG)
 
-#### 
-![]()
-
-#### 
-![]()
-
-#### 
-![]()
-
-#### 
-![]()
-
-#### 
-![]()
