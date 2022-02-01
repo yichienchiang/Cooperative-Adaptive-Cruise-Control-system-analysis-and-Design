@@ -8,19 +8,6 @@ THis project is for designing and simulating a whole Cooperative Adaptive Cruise
 #### Radar Transmitter
 ![Radar Transmitter](https://github.com/yichienchiang/Cooperative-Adaptive-Cruise-Control-system-analysis-and-Design/blob/4768d76485ed45d6c285e9936f0d2683906e46fb/2.PNG)
 
-## Radar TX Calculation
-|    parameter  | Value          | 
-| ------------- | -------------  | 
-|     Pin          |     31.62mW           |
-|     Pout          |     636.76mW           |
-|      Pdc         |      12375mW          |
-|       PAE(%)        |      4.9%          |
-|        Gt       |       20dBi         |
-|       EIRP        |     48.04dBm           |
-|     MDS          |     4.1*10-9 mW         | 
-fo                  77GHz        
-
-
 Pin = 15dBm = 31.62mW
 
 Pout = 28.04dBm = 636.76mW
@@ -45,34 +32,31 @@ R_𝑚𝑎𝑥 =〖[ (Pt 𝐺2 𝜆 𝜎)/(Pmin (4𝜋)3 )  ]" " 〗^(1/4) = 76.
 
 FSPL = 〖(4πR_𝑚𝑎𝑥)〗^2/(𝜆^2  ) = 107.87dB
 
+#### Radar TX Gain and Node Power Yield Simulation
+![Radar TX Gain and Node Power Yield Simulation](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/a26db1a7437296c16df7e0c22db43ca4d42a5dc4/3.PNG)
+
+#### Radar Receiver
+![Radar Receiver](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/06c251d78e4d27f84565faa13ff92453888c0cd5/12.PNG)
 
 
-
-#### Radar Transmitter
-![]()
-
-#### Radar Transmitter
-![]()
+#### Radar RX Yield Analysis: Gain
+![Radar RX Yield Analysis: Gain](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/30758d53515bade6c09e8ef6931d68ed92aa05d3/g.PNG)
 
 
-#### Radar Transmitter
-![]()
+#### Radar RX Yield Analysis: Noise Figure
+![Radar RX Yield Analysis: Noise Figure](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/30758d53515bade6c09e8ef6931d68ed92aa05d3/NF.PNG)
 
 
-#### Radar Transmitter
-![]()
+#### Radar RX Yield Analysis: IP3
+![Radar RX Yield Analysis: IP3](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/30758d53515bade6c09e8ef6931d68ed92aa05d3/IP3.PNG)
 
 
-#### Radar Transmitter
-![]()
+## Transmitter and Receiver Block Diagram- 5G
+![Transmitter and Receiver Block Diagram- 5G](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/19ebd157307b6f9b3df02edad725d6befbffee9e/block.PNG)
 
 
-#### Radar Transmitter
-![]()
-
-
-#### Radar Transmitter
-![]()
+#### 5G Communication Transmitter 
+![5G Communication Transmitter](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/0cf1284d63c46709f72b42ab8e8b700e1addb323/3333.PNG)
 
 
 #### Radar Transmitter
