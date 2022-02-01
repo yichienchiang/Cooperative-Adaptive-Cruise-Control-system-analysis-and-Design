@@ -59,5 +59,66 @@ FSPL = 〖(4πR_𝑚𝑎𝑥)〗^2/(𝜆^2  ) = 107.87dB
 ![5G Communication Transmitter](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/0cf1284d63c46709f72b42ab8e8b700e1addb323/3333.PNG)
 
 
-#### Radar Transmitter
+#### 5G Communication TX - Cascaded Gain
+![5G Communication TX - Cascaded Gain](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/6ca24f8f7202130d901841ebd023a538aa235425/gg.PNG)
+
+#### 5G Communication TX - Node power
+![5G Communication TX - Node power](https://github.com/yichienchiang/RF-Low-Noise-Amplifier/blob/6ca24f8f7202130d901841ebd023a538aa235425/nnf.PNG)
+
+## 5G TX Calculation
+Pin = -10 dBm = 0.1 mW
+
+Pout = 36.44dBm = 4415.70 mW 
+
+Pdc   = (5*65)+(6*210)+(24*240) = 7345 mW
+
+PAEtotal = (Pout - Pin)*100/ Pdc   = 60.11% 
+
+Pt  = 36.44 dBmW = 6.44 dBW = 4.405W
+
+Gt  =  Gr   = 20 dB = 100
+
+EIRP = Pt  + Gt = 56.44 dBm = 26.44 dB = 440.55W
+
+f = 15 GHz  λ = c/f = 0.02 
+
+Pr  = -39.5 dBmW = -69.5 dBW= 112.2 nW 
+
+R = √( Pt *Gt* Gt* λ2 )/( Pr  *(4*π)2)   = 999.59 m
+
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
+![]()
+
+#### 
 ![]()
